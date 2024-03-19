@@ -1,2 +1,3 @@
 # Altium Scripts 
- Scripts developed while working in Vadatech to increase Altium functionality
+ Scripts written to export and import netclasses along with their nets. 
+
